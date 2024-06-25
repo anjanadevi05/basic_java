@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Arrlist
+comment1.params=
+comment1.target=Arrlist()
+comment2.params=a\ b
+comment2.target=Arrlist(int,\ int)
+comment3.params=rows\ cols
+comment3.target=void\ get(int,\ int)
+comment4.params=
+comment4.target=void\ display()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

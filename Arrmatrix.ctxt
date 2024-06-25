@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Arrmatrix
+comment1.params=
+comment1.target=Arrmatrix()
+comment2.params=a\ b
+comment2.target=Arrmatrix(int,\ int)
+comment3.params=
+comment3.target=void\ get()
+comment4.params=
+comment4.target=void\ display()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

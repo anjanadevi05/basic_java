@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=arrange
+comment1.params=arr\ size
+comment1.target=int\ max(int[],\ int)
+comment2.params=arr\ size
+comment2.target=int\ min(int[],\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
